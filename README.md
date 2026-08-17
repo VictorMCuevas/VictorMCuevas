@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./header.gif" width="100%">
+</p>
 <h1>Hi 👋, I'm Víctor</h1>
 <p>Junior Web Developer from León, Spain</p>
 <h2>🚀 Languages and Tools I Use</h2>
